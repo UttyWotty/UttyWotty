@@ -36,15 +36,8 @@ thin-I/O layering, and engines that stay independent yet speak the same language
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
 ![LLMs](https://img.shields.io/badge/LLM%20Agents-512bd4?style=flat-square)
 
-### GitHub
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=UttyWotty&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=2b5b84&icon_color=2b5b84)](https://github.com/UttyWotty)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UttyWotty&layout=compact&hide_border=true&title_color=2b5b84&langs_count=8)](https://github.com/UttyWotty)
-
 ### Currently
 
 Aligning every Opsight domain engine onto the Intelligence Bus, building out the MCP
 federation gateway, and moving the executive personas to consume structured
 assessments instead of raw documents.
-
-<!-- profile -->
