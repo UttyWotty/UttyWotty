@@ -46,3 +46,5 @@ thin-I/O layering, and engines that stay independent yet speak the same language
 Aligning every Opsight domain engine onto the Intelligence Bus, building out the MCP
 federation gateway, and moving the executive personas to consume structured
 assessments instead of raw documents.
+
+<!-- profile -->
