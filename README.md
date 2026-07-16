@@ -14,13 +14,13 @@ thin-I/O layering, and engines that stay independent yet speak the same language
 ### What I work on
 
 - **Platform architecture** — contract-first design, dependency inversion, pure
-  business logic isolated from I/O adapters, single-source-of-truth registries.
+business logic isolated from I/O adapters, single-source-of-truth registries.
 - **Intelligence pipelines** — collect, normalize, enrich, detect, score, assess,
-  publish; idempotent, content-addressed artifacts.
+publish; idempotent, content-addressed artifacts.
 - **Distributed services** — Python backends, an event/intelligence bus, MCP servers
-  and a federation gateway, LLM-driven agents and executive personas.
+and a federation gateway, LLM-driven agents and executive personas.
 - **Engineering discipline** — small modules, full type hints, real CI gates
-  (lint + types + tests), reproducible releases.
+(lint + types + tests), reproducible releases.
 
 ### Tech
 
@@ -41,3 +41,15 @@ thin-I/O layering, and engines that stay independent yet speak the same language
 Aligning every Opsight domain engine onto the Intelligence Bus, building out the MCP
 federation gateway, and moving the executive personas to consume structured
 assessments instead of raw documents.
+
+### Where the work lives
+
+Active development happens in the **Opsight Intelligence** organization, where
+the domain engines, intelligence bus, and federation gateway are built. Most of
+those repositories are private, so for a public, high-level view of the
+architecture and design principles, see:
+
+**→ [Opsight Architecture Overview](https://github.com/UttyWotty/opsight-overview)**
+
+This profile focuses on the platform-level thinking; the overview repo
+describes the system without exposing implementation details.
