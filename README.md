@@ -57,7 +57,7 @@ the domain engines, intelligence bus, and federation gateway are built. Most of
 those repositories are private, so for a public, high-level view of the
 architecture and design principles, see:
 
-**→ [Opsight Architecture Overview](https://github.com/UttyWotty/Opsight-Architecture-Overview)**
+**→ [Opsight Architecture Overview](https://github.com/opsight-intelligence/Opsight-Architecture-Overview)**
 
 This profile focuses on the platform-level thinking; the overview repo describes
 the system without exposing implementation details.
